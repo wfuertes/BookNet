@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/Users/willian/.asdf/installs/dotnet/6.0.413/sdk/6.0.413/MSBuild.dll</s:String>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">4294967293</s:Int64>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentDotNetCliExePaths/=_002FUsers_002Fwillian_002F_002Easdf_002Fshims_002Fdotnet/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de508deb_002D9fc5_002D4fee_002Db28d_002D97d94d2aa731/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Api.Dto.BookFormTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Api.BookApiTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Domain.Books.BookServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Infra.Data.SqlBookRepositoryTests.FindAll_ShouldReturnBooksWhenBooksAreFound&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Infra.Data.SqlBookRepositoryTests.Save_ShouldSaveBook&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Infra.Controllers.BooksControllerTests.GetBooks_WithValidTitle_ReturnsBooks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1827AEB4-530B-4329-B0E4-047C27589704::net6.0::BookApi.Tests.Infra.Controllers.BooksControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
